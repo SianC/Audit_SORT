@@ -6,6 +6,6 @@ SORT data can be found in predictions_clinical_only_with_percent_bins_death. Exp
 
 Synthetic data can be found in Fake_hiring_data.csv. Further information about this data can be found in "Machine learning fairness notions: Bridging the gap with real-world applications" by Makhlouf et al. (https://doi.org/10.1016/j.ipm.2021.102642) 
 
-The auditing tool can be found in Fairness_Audit_category.ipynb. To run this you will need import_data.py and pick_labels.py.
+The auditing tool can be found in Fairness_Audit.ipynb. To run this you will need import_data.py and pick_labels.py.
 
 
